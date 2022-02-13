@@ -11,4 +11,15 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/abhinavpanchumarthi/?hl=enr#gh-light-mode-only)
 
 ### Skills
-<img align="left" alt="JavaScript" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="Java" width="26px" src="./img/java.jpg" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="C++" width="26px" src="./img/c++.png" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="Android Studio" width="26px" src="./img/androidstudio.png" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="Tensorflow" width="26px" src="./img/tensorflow.jpg" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="Git" width="26px" src="./img/git.jpg" style="padding-right:10px;" />
