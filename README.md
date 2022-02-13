@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Android Application Development and also practising Machine Learning in Kaggle
 - 📫 You could reach me through my E-Mail ID - abhinavpanchumarthi@gmail.com
 ## Connect with me: 
-<img align="left" alt="LinkedIn" width="26px" src="" style="padding-right:10px;" />
+[![website](./img/linkedin.png)](https://www.linkedin.com/in/panchumarthi-abhinav/r#gh-light-mode-only)
