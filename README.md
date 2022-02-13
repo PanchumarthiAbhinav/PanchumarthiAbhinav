@@ -12,7 +12,7 @@
 
 ### Skills
 &nbsp;&nbsp;
-<img align="left" alt="Java" width="26px" src="./img/java.jpg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="./img/java.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
 <img align="left" alt="Python" width="26px" src="./img/python.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
@@ -20,6 +20,6 @@
 &nbsp;&nbsp;
 <img align="left" alt="Android Studio" width="26px" src="./img/androidstudio.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
-<img align="left" alt="Tensorflow" width="26px" src="./img/tensorflow.jpg" style="padding-right:10px;" />
+<img align="left" alt="Tensorflow" width="26px" src="./img/tensorflow.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
-<img align="left" alt="Git" width="26px" src="./img/git.jpg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
