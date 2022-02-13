@@ -11,4 +11,4 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/abhinavpanchumarthi/?hl=enr#gh-light-mode-only)
 
 ### Skills
-<img align="left" alt="JavaScript" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="./img/linkedin.png" style="padding-right:10px;" />
