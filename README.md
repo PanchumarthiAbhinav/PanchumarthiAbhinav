@@ -26,4 +26,4 @@
 &nbsp;&nbsp;
 <img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
-<img align="left" alt="Streamlit" width="26px" src="./img/streamlit.jpg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="./img/streamlit.svg" style="padding-right:10px;" />
