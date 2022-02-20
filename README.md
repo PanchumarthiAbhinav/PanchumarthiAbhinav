@@ -25,3 +25,5 @@
 <img align="left" alt="Tensorflow" width="26px" src="./img/tensorflow.png"  />
 &nbsp;&nbsp;
 <img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
+&nbsp;&nbsp;
+<img align="left" alt="Git" width="26px" src="./img/streamlit.png" style="padding-right:10px;" />
