@@ -20,7 +20,7 @@
 &nbsp;&nbsp;
 <img align="left" alt="C++" width="26px" src="./img/c++.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
-<img align="left" alt="Android Studio" width="26px" src="./img/androidstudio.png" style="padding-right:10px;" />
+<img align="left" alt="Android Studio" width="23px" src="./img/androidstudio.png" style="padding-right:10px;" />
 &nbsp;&nbsp;
 <img align="left" alt="Tensorflow" width="26px" src="./img/tensorflow.png"  />
 &nbsp;&nbsp;
