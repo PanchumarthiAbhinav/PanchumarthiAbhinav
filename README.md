@@ -7,8 +7,10 @@
 ## Connect with me:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/panchumarthi-abhinav/r#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.linkedin.com/in/panchumarthi-abhinav/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/abhinavpanchumarthi/?hl=enr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/abhinavpanchumarthi/r#gh-dark-mode-only)
 
 ### Skills
 &nbsp;&nbsp;
