@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @PanchumarthiAbhinav
 - 👀 I’m interested in Android Application Development and Machine Learning
-- 🌱 I’m currently learning Android Application Development and also practising Machine Learning in Kaggle
+- 🌱 I’m currently building Android Apps and also creating Machine learning Web Apps
 - 📫 You could reach me through my E-Mail ID - abhinavpanchumarthi@gmail.com
 ## Connect with me:
 &nbsp;&nbsp;
