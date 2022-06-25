@@ -6,7 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Application+Developer;Machine+Learning+Enthusiast;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- I have learnt android app development myself and I could rate myself to be 4/5 in building apps.
+- I have learnt android app development myself and you could find my projects here on github.
+- If you are interested in any of my projects we could collabrate to make some better advancements to it.
 - I have built some ML projects like Plant disease identification, voice sentiment recognition and many other.
 - I am open for internships opportunities matching my profile, you can find my resume [here](https://drive.google.com/file/d/19NRg3rRSpC6sMdgGazFjUUAhBBstvCiT/view?usp=sharing)
 - 📫 You could reach me through my E-Mail ID - abhinavpanchumarthi@gmail.com
