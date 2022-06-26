@@ -8,7 +8,7 @@
 
 - I have learnt android app development myself and you could find my projects here on github.
 - Why Should you hire me?
-   I am great at working with deadlines and I can easily adapt with new technologies, I learn on the go and always open for feedback.
+   - I am great at working with deadlines and I can easily adapt with new technologies, I learn on the go and always open for feedback.
 - I have built some ML projects like Plant disease identification, voice sentiment recognition and many other.
 - I am open for internship opportunities matching my profile, you can find my resume [here](https://drive.google.com/file/d/19NRg3rRSpC6sMdgGazFjUUAhBBstvCiT/view?usp=sharing)
 - 📫 You could reach me through my E-Mail ID - abhinavpanchumarthi@gmail.com
