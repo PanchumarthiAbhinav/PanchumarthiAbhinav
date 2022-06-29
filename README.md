@@ -11,7 +11,7 @@
 - I have also built some ML projects like Plant disease identification, voice sentiment recognition and many others.
 - I am open for internship opportunities matching my profile, you can find my resume [here](https://drive.google.com/file/d/19NRg3rRSpC6sMdgGazFjUUAhBBstvCiT/view?usp=sharing)
 - Why Should you hire me?
-   - I am a hardworker and enthusiastic about coding
+   - I am enthusiastic about coding and I am determined towards my goal.
    - I can easily adapt with new technologies.
    - I am great at working with deadlines.
    - I learn on the go and always open for feedback.
