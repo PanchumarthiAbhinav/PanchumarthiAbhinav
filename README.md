@@ -9,7 +9,7 @@
 - I am a self taught native android app developer, where I use java for coding.
 - I am well proficient in developing android apps and you could find my projects here on github.
 - I have also built some ML projects like Plant disease identification, voice sentiment recognition and many others.
-- I am open for internship opportunities matching my profile, you can find my resume [here](https://drive.google.com/file/d/19NRg3rRSpC6sMdgGazFjUUAhBBstvCiT/view?usp=sharing)
+- I am open for internship opportunities matching my profile, you can find my resume [here](https://drive.google.com/file/d/1wCjMnm5NcikzPpw12h3kJgaI_sKBCftU/view?usp=sharing)
 - Why Should you hire me?
    - I am enthusiastic about coding and I am determined towards my goal.
    - I can easily adapt with new technologies.
