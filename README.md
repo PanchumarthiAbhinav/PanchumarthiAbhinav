@@ -6,14 +6,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Application+Developer;Machine+Learning+Enthusiast;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- I am a self taught native android app developer, where I use java for coding.
+- I am a self taught native android app developer, where I can develop using both java and kotlin.
 - I am well proficient in developing android apps and you could find my projects here on github.
 - I have also built some ML projects like Plant disease identification, voice sentiment recognition and many others.
 - I am open for internship opportunities matching my profile, you can find my resume [here](https://drive.google.com/file/d/1Mvf0oe_sbrZ2rDXbMi4VpvBdi63gMoa3/view?usp=sharing)
 - Why Should you hire me?
    - I am enthusiastic about coding and I am determined towards my goal.
    - I can easily adapt with new technologies.
-   - I am great at working with deadlines.
    - I learn on the go and always open for feedback.
 - 📫 You could reach me through my E-Mail ID - abhinavpanchumarthi@gmail.com
 ## Connect with me:
