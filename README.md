@@ -12,11 +12,9 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **2+ years** of experience building scalable, production-grade frontend applications at **Caterpillar**. I specialize in Angular and React ecosystems, with a track record of shipping real-time dashboards, high-performance UIs, and AI-powered features used across **57+ countries**.
+Data Scientist with 2+ years of experience specializing in agentic AI and end-to-end application development. Expert in building RAG pipelines and multi-agent workflows using Python, LangChain, LangGraph and Vector Databases. Proficient in managing the full MLOps lifecycle to deploy scalable, production-ready models. Uniquely skilled in bridging the gap between AI logic and user experience by developing high-performance frontend interfaces with Angular and TypeScript.
 
-I architect systems that handle 10,000+ row datasets at 1-second refresh rates, lead component library initiatives adopted across **5+ products**, and bridge the gap between complex backend microservices and seamless user experiences.
-
-- 🏢 Currently: **SDE 1 (Frontend)** at Caterpillar, Bangalore
+- 🏢 Currently: **Data Scientist** at Caterpillar, Bangalore
 - 🛒 Shipped: **Qzin** — a cross-platform food ordering app live on Play Store & App Store, serving **600+ customers** with **1,000+ daily requests**
 - 🎓 B.Tech in CS & Business Systems — Anna University | **9.54 CGPA**
 - 🌍 Based in **Bangalore, Karnataka, India**
