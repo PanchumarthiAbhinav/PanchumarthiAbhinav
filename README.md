@@ -53,15 +53,14 @@ Data Scientist with 2+ years of experience specializing in agentic AI and end-to
 
 ## 💼 Professional Experience
 
-### 🏗️ SDE 1, Frontend (Angular) — Caterpillar
+### 🏗️ Data Scientist — Caterpillar
 **July 2024 – Present | Bangalore, India**
 
-- Built an **Angular/RxJS real-time dashboard** with 1-second refresh intervals for live machinery health monitoring
-- Engineered high-performance UI rendering **10,000+ rows** using virtual scrolling and optimized change detection
-- Shipped an **AI-powered natural language query feature** for machine health insights, accelerating decision-making by **35%**
-- Integrated **NestJS microservices & REST APIs** for data processing and enterprise report exports, cutting frontend load by **15%**
-- Architected a **custom UI component library** (Lit/LitElement + Material Design) adopted across **5+ products**
-- Delivered **i18n localization** with Transloco supporting **57+ countries**
+- Built retrieval pipelines over structured and semi-structured machine telemetry datasets using hybrid semantic search and metadata filtering, improving diagnostic context relevance for real-time operator queries.
+- Architected a GenAI-powered agentic RAG system using LangGraph and LangChain to automate machine health diagnostics; implemented stateful multi-step reasoning to retrieve contextual insights, accelerating technical decision-making by 35%.
+- Integrated NestJS microservices and REST APIs to power data processing and enterprise report exports, reducing 15% of frontend processing overhead.
+- Developed evaluation pipelines for LLM responses using retrieval precision, answer grounding, hallucination detection, and latency benchmarking, improving response reliability by 28% during internal testing.
+- Engineered an MCP server that automated the localization workflow, reducing manual translation effort by 90% through seamless integration with AI-assisted development tools.
 
 ---
 
