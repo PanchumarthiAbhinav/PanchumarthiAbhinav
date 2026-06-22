@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchumarthi-abhinav/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavpanchumarthi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.newsabhi.in/)
-[![Phone](https://img.shields.io/badge/+91%209940485632-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919940485632)
 
 </div>
 
